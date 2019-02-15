@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f68e0d2e-5428-4759-8513-779f3c8079f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/New/Cw2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/New/Cw4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/New/Cw1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/New/Cw1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/New/Cw3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/New/Cw3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,46 +25,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="20" />
+          <entry key="java" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="20" />
+          <entry key="JAVA" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="5200" />
+          <entry key="java" value="5529" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5200" />
+          <entry key="JAVA" value="5529" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/New/Jp4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/New/Jp5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/New/Jp6.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -98,7 +80,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/start/Retrospection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
+            <state>
               <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -116,11 +98,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/New/Cw2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="29" column="74" lean-forward="true" selection-start-line="29" selection-start-column="74" selection-end-line="29" selection-end-column="74" />
+            <state relative-caret-position="413">
+              <caret line="31" column="74" lean-forward="true" selection-start-line="31" selection-start-column="74" selection-end-line="31" selection-end-column="74" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/New/Cw3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/New/Cw4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -174,6 +177,8 @@
         <option value="$PROJECT_DIR$/src/start/x.java" />
         <option value="$PROJECT_DIR$/src/New/Cw1.java" />
         <option value="$PROJECT_DIR$/src/New/Cw2.java" />
+        <option value="$PROJECT_DIR$/src/New/Cw3.java" />
+        <option value="$PROJECT_DIR$/src/New/Cw4.java" />
       </list>
     </option>
   </component>
@@ -231,7 +236,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550227023156" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550228486227" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -248,7 +253,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Cw2">
+  <component name="RunManager" selected="Application.Cw4">
     <configuration name="Cw1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="New.Cw1" />
       <module name="Rozwiązania" />
@@ -275,12 +280,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Retrospection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="start.Retrospection" />
+    <configuration name="Cw3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="New.Cw3" />
       <module name="Rozwiązania" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="start.*" />
+          <option name="PATTERN" value="New.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,12 +293,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="start.SwitchCase" />
+    <configuration name="Cw4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="New.Cw4" />
       <module name="Rozwiązania" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="start.*" />
+          <option name="PATTERN" value="New.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -315,19 +320,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Retrospection" />
       <item itemvalue="Application.x" />
-      <item itemvalue="Application.SwitchCase" />
       <item itemvalue="Application.Cw1" />
       <item itemvalue="Application.Cw2" />
+      <item itemvalue="Application.Cw3" />
+      <item itemvalue="Application.Cw4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cw4" />
+        <item itemvalue="Application.Cw3" />
         <item itemvalue="Application.Cw2" />
         <item itemvalue="Application.Cw1" />
         <item itemvalue="Application.x" />
-        <item itemvalue="Application.SwitchCase" />
-        <item itemvalue="Application.Retrospection" />
       </list>
     </recent_temporary>
   </component>
@@ -342,12 +347,12 @@
       <option name="presentableId" value="Default" />
       <updated>1550133367197</updated>
       <workItem from="1550133370450" duration="20470000" />
-      <workItem from="1550218063871" duration="7657000" />
+      <workItem from="1550218063871" duration="9046000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28127000" />
+    <option name="totallyTimeSpent" value="29516000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -362,7 +367,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -371,7 +376,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -490,20 +495,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/New/Jp8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/start/SwitchCase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/start/x.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -516,7 +518,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/start/Retrospection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
+        <state>
           <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -524,17 +526,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/start/x.java">
+    <entry file="file://$PROJECT_DIR$/src/New/Jp8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="10" />
+        <state relative-caret-position="238">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/New/Cw3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/New/Cw2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="29" column="74" lean-forward="true" selection-start-line="29" selection-start-column="74" selection-end-line="29" selection-end-column="74" />
+        <state relative-caret-position="413">
+          <caret line="31" column="74" lean-forward="true" selection-start-line="31" selection-start-column="74" selection-end-line="31" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/New/Cw4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
         </state>
       </provider>
     </entry>
