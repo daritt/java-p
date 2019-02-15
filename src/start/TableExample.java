@@ -18,6 +18,6 @@ public class TableExample {
         System.out.println(signal [4]);
         System.out.println(signal [5]);
 //        długość tablicy
-     
+
     }
 }
